@@ -1,0 +1,21 @@
+.loginPage {
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.googleIcon {
+  background-color: lightblue;
+  padding: 15px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 8px;
+}
